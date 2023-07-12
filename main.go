@@ -1,0 +1,1 @@
+package rabbitMq_task
